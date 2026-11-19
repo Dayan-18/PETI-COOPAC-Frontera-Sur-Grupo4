@@ -1,0 +1,5 @@
+s=open('build_docx.py',encoding='utf8').read()
+s=s.replace("adjuntar las capturas en `evidencias/S15/`.]**","adjuntar las capturas en evidencias/S15/.]**")
+s=s.replace("[480, 480, 3200, 1500, 700, 1800, 1190]","[480, 480, 3100, 1500, 800, 1800, 1190]")
+s=s.replace('<w:pStyle w:val="Compact"/><w:spacing w:before="20" w:after="20"/>','<w:pStyle w:val="Compact"/><w:spacing w:before="20" w:after="20"/><w:jc w:val="left"/>')
+open('build_docx.py','w',encoding='utf8').write(s)

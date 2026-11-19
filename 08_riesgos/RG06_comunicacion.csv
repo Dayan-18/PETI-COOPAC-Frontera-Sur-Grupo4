@@ -1,0 +1,9 @@
+id del riesgo,Qué se comunica,A quién (cargo),Cuándo / frecuencia,Canal,Quién comunica,Formato,Qué decisión habilita
+R-08,Estado del plan y de los indicadores de riesgo,Gerencia General y comité de TI,Trimestral,Sesión de comité,Responsable del plan,Tablero + acta,"Continuar, ajustar o detener el plan"
+R-02,Resultado de la prueba de restauración y de la verificación diaria,Gerencia General y Gerencia de Administración y Finanzas,Trimestral; inmediata si la prueba falla,Informe escrito,Jefe de TI,Acta de restauración,Corregir el respaldo o invertir en otra solución
+R-01,Estado de la custodia de la copia externa y del suplente,Gerencia de Administración y Finanzas,Mensual,Correo con tablero,Jefe de TI,Indicador,Priorizar la segunda copia en nube
+R-04,Cobertura del registro de accesos y hallazgos de la revisión,Gerencia General y responsable de protección de datos,Mensual,Reunión de seguimiento,Jefe de TI,Informe de 1 página,Escalar o sancionar incumplimientos
+R-05,Evidencia de cifrado y estado de la renegociación del contrato,Gerencia General,Quincenal hasta la firma,Correo,Gerencia de Administración y Finanzas,Estado en una línea,Escalar o activar el plan de salida
+R-03,Calendario de revisiones del regulador y cumplimiento,Gerencia General,Trimestral,Sesión de comité,Jefe de Auditoría Interna,Matriz de cumplimiento,Asignar horas y recursos
+R-11,Resultado del simulacro de recuperación del core financiero,Comité de TI,Al concluir cada simulacro,Sesión de comité,Jefe de TI,Informe técnico,Aprobar el plan de recuperación o ajustarlo
+Todos ≥ 15,"Riesgo, tratamiento, residual y responsable de la aceptación",Gerencia General,Antes de aprobar el plan,Sesión formal,Responsable del plan,Anexo del PETI con firmas,Aprobar el plan con conocimiento del riesgo

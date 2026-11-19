@@ -1,0 +1,29 @@
+  id  Valor  Valor residual  reduccion  reduccion_pct               Decisión
+R-02     20               8         12           60.0                Mitigar
+R-01     16               6         10           62.0                Mitigar
+R-04     16               8          8           50.0                Mitigar
+R-05     16               8          8           50.0   Transferir + Mitigar
+R-08     16               8          8           50.0                Mitigar
+R-03     15               8          7           47.0                Mitigar
+R-11     15               8          7           47.0 Mitigar + Contingencia
+R-06     12               6          6           50.0                Mitigar
+R-07     12               6          6           50.0                Mitigar
+R-09     12               6          6           50.0                Mitigar
+R-10     12               6          6           50.0                Mitigar
+R-12      9               6          3           33.0                Mitigar
+
+Valor agregado del plan de tratamiento: 87 puntos (51% de reducción)
+
+=== RIESGOS RESIDUALES POR ENCIMA DEL CRITERIO (6) ===
+  id  Valor residual ¿Quién acepta el residual?
+R-02               8           Gerencia General
+R-04               8           Gerencia General
+R-05               8           Gerencia General
+R-08               8           Gerencia General
+R-03               8           Gerencia General
+R-11               8           Gerencia General
+→ Cada uno requiere ACEPTACIÓN FORMAL FIRMADA antes de aprobar el plan.
+  Un riesgo residual sin firma no está aceptado: está ignorado.
+
+Riesgos sin señal temprana: 0 → []
+→ Sin señal observable no hay seguimiento posible: el riesgo se detecta cuando ya ocurrió.
